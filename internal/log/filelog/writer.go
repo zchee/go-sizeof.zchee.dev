@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	log "code.google.com/p/log4go"
+	log "github.com/zchee/go-sizeof.zchee.dev/log4go"
 )
 
 // Day format for comparing files changed time during daily log rotation.
