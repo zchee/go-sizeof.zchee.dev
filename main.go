@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/gophergala/golang-sizeof.tips/app"
+	"github.com/zchee/go-sizeof.zchee.dev/app"
 )
 
 func main() {

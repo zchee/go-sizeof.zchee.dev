@@ -1,6 +1,6 @@
 package app
 
-import "github.com/gophergala/golang-sizeof.tips/internal/log"
+import "github.com/zchee/go-sizeof.zchee.dev/internal/log"
 
 var appLog log.Logger
 
