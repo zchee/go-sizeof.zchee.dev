@@ -1,0 +1,4 @@
+github.com/elazarl/go-bindata-assetfs v1.0.1-0.20180223160309-38087fe4dafb h1:Dnxl6iOR/3QQRcCBDEOCpusGgsx7uDS+Pa/InwqCFfw=
+github.com/elazarl/go-bindata-assetfs v1.0.1-0.20180223160309-38087fe4dafb/go.mod h1:v+YaWX3bdea5J/mo8dSETolEo7R71Vk1u8bnjau5yw4=
+github.com/tyranron/daemonigo v0.3.1 h1:kLt7oKl2AceLdPl6qaXOYQZM4ZZLhT9jWrZa02iq2PQ=
+github.com/tyranron/daemonigo v0.3.1/go.mod h1:tXUGvLFtBWBCpYfzgvLNuHZ4NhuwSjyNcs4gsXWZw8k=
