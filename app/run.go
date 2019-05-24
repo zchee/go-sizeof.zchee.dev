@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"net/http"
 	"os"
-	"runtime"
 	"syscall"
 	"time"
 
@@ -12,10 +11,6 @@ import (
 
 	daemon "github.com/tyranron/daemonigo"
 )
-
-func init() {
-	runtime.GOMAXPROCS(runtime.NumCPU())
-}
 
 func Run() (exitCode int) {
 	switch isDaemon, err := daemon.Daemonize(); {
